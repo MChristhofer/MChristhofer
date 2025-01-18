@@ -2,6 +2,5 @@
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, and Data Science.  
 - 🌱 I’m currently learning Python, TensorFlow, and Data Analysis with Pandas.  
 - 💞️ I’m looking to collaborate on beginner-friendly AI and data analysis projects.  
-- 📫 How to reach me: [your email or LinkedIn link]  
-- 😄 Pronouns: He/Him  
+- 📫 How to reach me: markusrocha7@gmail.com  
 - ⚡ Fun fact: I started learning AI because I'm fascinated by how machines "learn" to solve problems!  
